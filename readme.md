@@ -3,3 +3,6 @@
 - [x] Implementando a estrutura do HTML básico
 - [x] Implementação do CSS com flexbox
 - [x] Média query para responsibidade
+
+This a repository where the recreation of the 
+initial Instagram page was made.
